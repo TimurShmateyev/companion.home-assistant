@@ -11,7 +11,7 @@ The app does not support all Home Assistant features. Keep an eye out on this pa
 
 ## Home Screen
 
-The following list of domains are currently supported to toggle/execute once you log in and select them:
+The following list of domains are currently supported to toggle/execute once you log in and select them
 
 * `button`
 * `cover`
